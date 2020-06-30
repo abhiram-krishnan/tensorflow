@@ -25,7 +25,7 @@ general enough to be applicable in a wide variety of other domains, as well.
 
 TensorFlow provides stable [Python](https://www.tensorflow.org/api_docs/python)
 and [C++](https://www.tensorflow.org/api_docs/cc) APIs, as well as
-non-guaranteed backward compatible API for..
+non-guaranteed backward compatible API for...
 [other languages](https://www.tensorflow.org/api_docs).
 
 Keep up-to-date with release announcements and security updates by subscribing
