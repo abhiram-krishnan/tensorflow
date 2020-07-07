@@ -56,7 +56,7 @@ $ pip install tensorflow-cpu
 ```
 
 To update TensorFlow to the latest version, add `--upgrade` flag to the above
-commands.
+commands. 
 
 *Nightly binaries are available for testing using the
 [tf-nightly](https://pypi.python.org/pypi/tf-nightly) and
