@@ -16,7 +16,7 @@ for machine learning. It has a comprehensive, flexible ecosystem of
 [libraries](https://www.tensorflow.org/resources/libraries-extensions), and
 [community](https://www.tensorflow.org/community) resources that lets
 researchers push the state-of-the-art in ML and developers easily build and
-deploy ML-powered applications.
+deploy ML-powered applications. 
 
 TensorFlow was originally developed by researchers and engineers working on the
 Google Brain team within Google's Machine Intelligence Research organization to
