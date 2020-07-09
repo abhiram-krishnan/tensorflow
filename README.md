@@ -12,7 +12,7 @@
 
 [TensorFlow](https://www.tensorflow.org/) is an end-to-end open source platform
 for machine learning. It has a comprehensive, flexible ecosystem of
-[tools](https://www.tensorflow.org/resources/tools),
+[tools](https://www.tensorflow.org/resources/tools), 
 [libraries](https://www.tensorflow.org/resources/libraries-extensions), and
 [community](https://www.tensorflow.org/community) resources that lets
 researchers push the state-of-the-art in ML and developers easily build and
